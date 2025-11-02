@@ -91,8 +91,8 @@ The project is organized into several analytical stages:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/loan-default-prediction.git
-   cd loan-default-prediction
+   git clone https://github.com/sindhuja469/prediction-model.git
+   cd prediction-model
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
